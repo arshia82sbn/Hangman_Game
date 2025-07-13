@@ -1,0 +1,26 @@
+[
+    {
+        "word": "JAVA",
+        "win": true,
+        "attempts_left": 6,
+        "difficulty": "Normal",
+        "time_taken": 5,
+        "date": "2025-07-13 03:14:22"
+    },
+    {
+        "word": "HTML",
+        "win": false,
+        "attempts_left": 0,
+        "difficulty": "Normal",
+        "time_taken": 25,
+        "date": "2025-07-13 03:21:47"
+    },
+    {
+        "word": "FLASK",
+        "win": false,
+        "attempts_left": 0,
+        "difficulty": "Normal",
+        "time_taken": 17,
+        "date": "2025-07-13 03:32:28"
+    }
+]
