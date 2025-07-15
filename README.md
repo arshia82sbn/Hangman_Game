@@ -54,22 +54,3 @@ hangman_game/
 ```
 
 ---
-
-## 📸 Screenshots
-
-*Select your difficulty and begin!*
-
-*Watch the hangman draw and countdown timer in action!*
-
----
-
-## ❤️ Contributing
-
-1. Fork the repo
-2. Create a branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add awesome feature'`
-4. Push to branch: `git push origin feature/YourFeature`
-5. Pull request!
-
----
-
